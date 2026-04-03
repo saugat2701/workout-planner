@@ -1,0 +1,13 @@
+{
+  "name": "fittrack",
+  "version": "1.0.0",
+  "description": "FitTRACK Workout Planner by Saugat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

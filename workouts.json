@@ -1,0 +1,231 @@
+{
+  "weightloss": [
+    {
+      "name": "HIIT Cardio Blast",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Jumping Jacks", "detail": "3 sets × 30 reps", "muscle": "Full Body" },
+        { "name": "Burpees", "detail": "3 sets × 12 reps", "muscle": "Full Body" },
+        { "name": "High Knees", "detail": "3 sets × 40 reps", "muscle": "Legs/Core" },
+        { "name": "Mountain Climbers", "detail": "3 sets × 20 reps", "muscle": "Core" },
+        { "name": "Jump Squats", "detail": "3 sets × 15 reps", "muscle": "Legs" }
+      ]
+    },
+    {
+      "name": "Upper Body Burn",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Push-ups", "detail": "4 sets × 15 reps", "muscle": "Chest" },
+        { "name": "Pike Push-ups", "detail": "3 sets × 12 reps", "muscle": "Shoulders" },
+        { "name": "Tricep Dips", "detail": "3 sets × 12 reps", "muscle": "Triceps" },
+        { "name": "Superman Hold", "detail": "3 sets × 15s", "muscle": "Back" }
+      ]
+    },
+    {
+      "name": "Core & Cardio",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Plank", "detail": "4 sets × 45s", "muscle": "Core" },
+        { "name": "Bicycle Crunches", "detail": "3 sets × 20 reps", "muscle": "Abs" },
+        { "name": "Russian Twists", "detail": "3 sets × 20 reps", "muscle": "Obliques" },
+        { "name": "Leg Raises", "detail": "3 sets × 15 reps", "muscle": "Lower Abs" }
+      ]
+    },
+    {
+      "name": "Leg Day Shred",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Bodyweight Squats", "detail": "4 sets × 20 reps", "muscle": "Quads" },
+        { "name": "Lunges", "detail": "3 sets × 15 each leg", "muscle": "Glutes" },
+        { "name": "Glute Bridges", "detail": "3 sets × 20 reps", "muscle": "Glutes" },
+        { "name": "Calf Raises", "detail": "3 sets × 25 reps", "muscle": "Calves" }
+      ]
+    },
+    {
+      "name": "Active Recovery",
+      "duration": "25 min",
+      "exercises": [
+        { "name": "Brisk Walk/Jog", "detail": "20 min continuous", "muscle": "Cardio" },
+        { "name": "Hip Flexor Stretch", "detail": "2 × 30s each side", "muscle": "Hips" }
+      ]
+    },
+    {
+      "name": "Full Body Burn",
+      "duration": "40 min",
+      "exercises": [
+        { "name": "Burpees", "detail": "4 sets × 10 reps", "muscle": "Full Body" },
+        { "name": "Push-ups", "detail": "3 sets × 15 reps", "muscle": "Upper Body" },
+        { "name": "Squats", "detail": "3 sets × 20 reps", "muscle": "Legs" },
+        { "name": "Plank", "detail": "3 sets × 60s", "muscle": "Core" }
+      ]
+    },
+    { "name": "REST DAY", "rest": true }
+  ],
+  "muscle": [
+    {
+      "name": "Chest & Triceps",
+      "duration": "40 min",
+      "exercises": [
+        { "name": "Push-ups Wide", "detail": "4 sets × 12 reps", "muscle": "Chest" },
+        { "name": "Diamond Push-ups", "detail": "3 sets × 10 reps", "muscle": "Triceps" },
+        { "name": "Tricep Dips", "detail": "4 sets × 12 reps", "muscle": "Triceps" },
+        { "name": "Decline Push-ups", "detail": "3 sets × 10 reps", "muscle": "Upper Chest" }
+      ]
+    },
+    {
+      "name": "Back & Biceps",
+      "duration": "40 min",
+      "exercises": [
+        { "name": "Pull-ups / Rows", "detail": "4 sets × 8 reps", "muscle": "Back" },
+        { "name": "Superman", "detail": "3 sets × 15 reps", "muscle": "Lower Back" },
+        { "name": "Bicep Curls", "detail": "4 sets × 12 reps", "muscle": "Biceps" },
+        { "name": "Hammer Curls", "detail": "3 sets × 10 reps", "muscle": "Brachialis" }
+      ]
+    },
+    { "name": "REST DAY", "rest": true },
+    {
+      "name": "Legs & Glutes",
+      "duration": "45 min",
+      "exercises": [
+        { "name": "Squats", "detail": "5 sets × 12 reps", "muscle": "Quads/Glutes" },
+        { "name": "Romanian Deadlift", "detail": "4 sets × 10 reps", "muscle": "Hamstrings" },
+        { "name": "Lunges", "detail": "3 sets × 12 each", "muscle": "Legs" },
+        { "name": "Glute Bridges", "detail": "4 sets × 15 reps", "muscle": "Glutes" }
+      ]
+    },
+    {
+      "name": "Shoulders & Core",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Overhead Press", "detail": "4 sets × 10 reps", "muscle": "Shoulders" },
+        { "name": "Lateral Raises", "detail": "3 sets × 12 reps", "muscle": "Side Delt" },
+        { "name": "Plank", "detail": "4 sets × 60s", "muscle": "Core" },
+        { "name": "Bicycle Crunches", "detail": "3 sets × 20 reps", "muscle": "Abs" }
+      ]
+    },
+    {
+      "name": "Full Body Strength",
+      "duration": "45 min",
+      "exercises": [
+        { "name": "Push-ups", "detail": "4 sets × 15 reps", "muscle": "Upper Body" },
+        { "name": "Squats", "detail": "4 sets × 15 reps", "muscle": "Lower Body" },
+        { "name": "Pull-ups", "detail": "3 sets × 8 reps", "muscle": "Back" },
+        { "name": "Plank", "detail": "3 sets × 60s", "muscle": "Core" }
+      ]
+    },
+    { "name": "REST DAY", "rest": true }
+  ],
+  "stamina": [
+    {
+      "name": "Morning Run",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Warm-up Walk", "detail": "5 min easy pace", "muscle": "Cardio" },
+        { "name": "Interval Run", "detail": "20 min 1 min fast / 1 min slow", "muscle": "Cardio" },
+        { "name": "Cool-down Walk", "detail": "5 min", "muscle": "Recovery" }
+      ]
+    },
+    {
+      "name": "Jump Rope & Core",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Jump Rope", "detail": "10 rounds × 90s", "muscle": "Cardio" },
+        { "name": "Burpees", "detail": "4 sets × 10 reps", "muscle": "Full Body" },
+        { "name": "Mountain Climbers", "detail": "3 sets × 30 reps", "muscle": "Core" }
+      ]
+    },
+    {
+      "name": "Cycling or Swim",
+      "duration": "45 min",
+      "exercises": [
+        { "name": "Steady Cardio", "detail": "40 min continuous", "muscle": "Endurance" },
+        { "name": "Deep Breathing", "detail": "5 min mindful", "muscle": "Lung Capacity" }
+      ]
+    },
+    {
+      "name": "Stair Climbs & HIIT",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Stair Climbs", "detail": "5 rounds up and down", "muscle": "Legs/Cardio" },
+        { "name": "Jumping Jacks", "detail": "4 sets × 40 reps", "muscle": "Full Body" },
+        { "name": "Box Jumps", "detail": "3 sets × 10 reps", "muscle": "Power" }
+      ]
+    },
+    { "name": "REST DAY", "rest": true },
+    {
+      "name": "Long Endurance Run",
+      "duration": "50 min",
+      "exercises": [
+        { "name": "Easy Warm-up", "detail": "5 min walk", "muscle": "Warmup" },
+        { "name": "Steady Run", "detail": "40 min moderate pace", "muscle": "Endurance" },
+        { "name": "Stretch Cool-down", "detail": "5 min", "muscle": "Recovery" }
+      ]
+    },
+    {
+      "name": "Yoga & Flexibility",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Sun Salutation", "detail": "5 rounds", "muscle": "Full Body" },
+        { "name": "Warrior Poses", "detail": "3 sets each side", "muscle": "Balance" },
+        { "name": "Pigeon Pose", "detail": "2 × 60s each side", "muscle": "Hips" }
+      ]
+    }
+  ],
+  "fit": [
+    {
+      "name": "Morning Yoga Flow",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Sun Salutation", "detail": "5 rounds slow", "muscle": "Full Body" },
+        { "name": "Warrior I and II", "detail": "3 sets each side", "muscle": "Balance" },
+        { "name": "Childs Pose", "detail": "2 × 60s", "muscle": "Recovery" }
+      ]
+    },
+    {
+      "name": "Bodyweight Basics",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Push-ups", "detail": "3 sets × 12 reps", "muscle": "Upper Body" },
+        { "name": "Squats", "detail": "3 sets × 15 reps", "muscle": "Legs" },
+        { "name": "Plank", "detail": "3 sets × 45s", "muscle": "Core" },
+        { "name": "Glute Bridges", "detail": "3 sets × 15 reps", "muscle": "Glutes" }
+      ]
+    },
+    {
+      "name": "Light Cardio Walk",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Brisk Walk", "detail": "25 min outdoor", "muscle": "Cardio" },
+        { "name": "Breathing Exercises", "detail": "5 min mindful", "muscle": "Wellness" }
+      ]
+    },
+    { "name": "REST DAY", "rest": true },
+    {
+      "name": "Flexibility & Core",
+      "duration": "30 min",
+      "exercises": [
+        { "name": "Hip Flexor Stretch", "detail": "2 × 45s each side", "muscle": "Hips" },
+        { "name": "Bicycle Crunches", "detail": "3 sets × 20 reps", "muscle": "Abs" },
+        { "name": "Side Plank", "detail": "2 × 30s each side", "muscle": "Obliques" }
+      ]
+    },
+    {
+      "name": "Full Body Light",
+      "duration": "35 min",
+      "exercises": [
+        { "name": "Jumping Jacks", "detail": "3 sets × 30 reps", "muscle": "Warm-up" },
+        { "name": "Push-ups", "detail": "3 sets × 10 reps", "muscle": "Upper Body" },
+        { "name": "Squats", "detail": "3 sets × 12 reps", "muscle": "Lower Body" },
+        { "name": "Plank", "detail": "3 sets × 45s", "muscle": "Core" }
+      ]
+    },
+    {
+      "name": "Active Rest & Meditation",
+      "duration": "20 min",
+      "exercises": [
+        { "name": "Gentle Walk", "detail": "10 min easy pace", "muscle": "Active Rest" },
+        { "name": "Meditation", "detail": "10 min guided", "muscle": "Mental Health" }
+      ]
+    }
+  ]
+}
